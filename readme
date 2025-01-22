@@ -3,4 +3,4 @@
  sudo apt install nodejs
  npm install --platform=win32
 
-
+ npm start
